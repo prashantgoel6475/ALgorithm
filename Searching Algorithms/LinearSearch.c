@@ -99,4 +99,7 @@ index    0   1   2   3    4    5    6    7    8    9   10  11   12
                               start
  Array[start] : 34 which is  equal to key.
  Hence, key is found at index : 5
+ 
+ 
+Time Complexity= O(n)
 */
